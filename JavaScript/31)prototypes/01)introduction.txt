@@ -1,0 +1,4 @@
+a prototype is essentially a parent of another object
+
+a prototype is just a regular object
+every object has a prototype or a parent except the root object

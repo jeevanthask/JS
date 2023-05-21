@@ -1,0 +1,15 @@
+01)Getting started
+02)Basics
+03)Operators
+04)Control Flow
+05)Objects
+06)Arrays
+07)Functions
+
+Object oriented programming in JavaScript
+01)Getting started
+02)Objects
+03)Prototypes
+04)Prototypical Inheritance
+05)ES6 classes
+06)Modules
